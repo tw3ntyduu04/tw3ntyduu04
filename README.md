@@ -1,0 +1,6 @@
+-  Oiiie, eu sou o Eduardo
+-  Eu estou interessado na área de computação e planejo fazer vários projetos, como jogos e sites.
+-  Atualmente eu estou aprendendo obre a linguagem da programação
+-  Estou procurando colaborar com a Lógica Computacional
+-  Como chegar a mim: E-mail ou Discord
+-  Fato: Daqui alguns anos você verá eu virar um grande criador de sites e jogos incríveis
